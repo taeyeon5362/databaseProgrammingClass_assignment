@@ -1,3 +1,5 @@
+# [과제6] 수강 신청 함수 Date2EnrollYear
+# [과제7] 수강 신청 함수 Date2EnrollSemester
 # [과제8] 수강 신청 프로시저 InsertEnroll
 
 ### 실행 결과
